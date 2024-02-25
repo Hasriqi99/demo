@@ -4,6 +4,7 @@ public class App {
       for (String i : cars) {
         System.out.println(i);
       }
-      System.out.println("Hello World!");    
+      System.out.println("Hello World!");
+      System.out.println("Nice");    
     }
   }
